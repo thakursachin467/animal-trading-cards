@@ -1,0 +1,42 @@
+#card
+{
+	height: 70%;
+	width: 300px;
+border: .5px solid grey;
+border-radius: 4px 4px 0px 0px;
+padding: 16px 16px;
+box-shadow: 5px 5px  #E6E9E9;
+}
+#name
+{
+	font-weight: 900;
+
+}
+#image
+{
+	height: 200px;
+	width: 300px;
+}
+.list
+{
+	list-style-type: none;
+	padding-left: 1px;
+}
+.font
+{
+	font-weight: 900;
+}
+#top
+{
+	border: 1px ;
+	margin-bottom: 8px;
+}
+#bottom
+{
+
+
+	
+	padding: 16px 16px ;
+	
+	border: .5px solid grey;
+}
